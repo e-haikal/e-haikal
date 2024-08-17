@@ -10,7 +10,6 @@ Saya adalah seorang Mahasiswa Sistem Informasi dengan minat yang mendalam dalam 
 
 - **Android Development**: Pengalaman dalam membangun aplikasi Android menggunakan Kotlin. Familiar dengan arsitektur aplikasi Android seperti MVVM, penggunaan Room Database, dan implementasi navigasi menggunakan Navigation Component.
 - **UI/UX Design**: Menciptakan antarmuka pengguna yang bersih dan fungsional, serta fokus pada pengalaman pengguna yang optimal.
-- **Cybersecurity**: Memahami dasar-dasar keamanan siber dan bagaimana melindungi aplikasi dari berbagai ancaman.
 
 ---
 
