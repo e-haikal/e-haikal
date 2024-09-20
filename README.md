@@ -19,7 +19,7 @@ Saya adalah seorang Mahasiswa Sistem Informasi dengan minat yang mendalam dalam 
 - **Framework & Tools**: Android Studio, Firebase, Git
 - **Desain UI**: XML Layouts, Material Design
 - **Database**: SQLite, MySQL, Room
-- **Lainnya**: RESTful APIs, JSON, MVVM, Dagger Hilt, Jetpack Compose
+- **Lainnya**: RESTful APIs, JSON, MVVM. 
 
 ---
 
