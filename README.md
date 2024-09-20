@@ -13,7 +13,7 @@ Saya adalah seorang Mahasiswa Sistem Informasi dengan minat yang mendalam dalam 
 
 ---
 
-## 🔧 Teknologi yang Dikuasai
+## 🔧 Teknologi yang Dipelajari 
 
 - **Bahasa Pemrograman**: Kotlin, PHP
 - **Framework & Tools**: Android Studio, Firebase, Git
