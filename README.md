@@ -8,7 +8,7 @@ Saya adalah seorang Mahasiswa Sistem Informasi dengan minat yang mendalam dalam 
 
 ## 🚀 Keahlian Utama
 
-- **Android Development**: Pengalaman dalam membangun aplikasi Android menggunakan Kotlin. Familiar dengan arsitektur aplikasi Android seperti MVVM, penggunaan Room Database, dan implementasi navigasi menggunakan Navigation Component.
+- **Android Development**: Pengalaman dalam membangun aplikasi Android menggunakan Kotlin. Familiar dengan local dan remote database.
 - **UI/UX Design**: Menciptakan antarmuka pengguna yang bersih dan fungsional, serta fokus pada pengalaman pengguna yang optimal.
 
 ---
@@ -16,10 +16,9 @@ Saya adalah seorang Mahasiswa Sistem Informasi dengan minat yang mendalam dalam 
 ## 🔧 Teknologi yang Dipelajari 
 
 - **Bahasa Pemrograman**: Kotlin, PHP
-- **Framework & Tools**: Android Studio, Firebase, Git
 - **Desain UI**: XML Layouts, Material Design
 - **Database**: SQLite, MySQL, Room
-- **Lainnya**: RESTful APIs, JSON, MVVM. 
+- **Lainnya**: RESTful APIs, JSON, Git. 
 
 ---
 
@@ -53,7 +52,7 @@ Saya selalu terbuka untuk kolaborasi atau diskusi terkait proyek dan teknologi t
 
 - **Email**: info@asmanhaikal.com
 - **LinkedIn**: [linkedin.com/in/asman.haikal](https://www.linkedin.com/in/asmanhaikal/)
-- **Instagram**: [@et.haikal](instagram.com/et.haikal)
+- **Instagram**: [@heykal_id](instagram.com/heykal_id)
 
 ---
 
