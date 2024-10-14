@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Haikal
 
-I’m a Information System student with a keen interest in **Mobile Development**. Here’s a bit about me and the projects I’m working on.
+I’m an Information System student with a keen interest in **Mobile Development**. Here’s a bit about me and the projects I’m working on.
 
 ---
 
